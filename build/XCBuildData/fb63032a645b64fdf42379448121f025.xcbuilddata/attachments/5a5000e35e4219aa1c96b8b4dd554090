@@ -1,0 +1,6 @@
+framework module Pods_HRPlatformSovcomBank {
+  umbrella header "Pods-HRPlatformSovcomBank-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,70 @@
+{
+  "" : {
+    "const-values" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Differentiator-master.swiftconstvalues",
+    "dependencies" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Differentiator-master.d",
+    "diagnostics" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Differentiator-master.dia",
+    "emit-module-dependencies" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Differentiator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Differentiator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Differentiator-master.swiftdeps"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModel.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModel.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModel.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModel.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModelType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModelType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModelType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType+ItemPath.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModelType+ItemPath.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModelType+ItemPath.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/AnimatableSectionModelType+ItemPath.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/Changeset.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Changeset.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Changeset.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Changeset.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/Diff.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Diff.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Diff.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Diff.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/IdentifiableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/IdentifiableType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/IdentifiableType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/IdentifiableType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/IdentifiableValue.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/IdentifiableValue.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/IdentifiableValue.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/IdentifiableValue.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/ItemPath.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/ItemPath.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/ItemPath.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/ItemPath.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/Optional+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Optional+Extensions.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Optional+Extensions.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Optional+Extensions.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/SectionModel.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/SectionModel.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/SectionModel.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/SectionModel.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/SectionModelType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/SectionModelType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/SectionModelType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/SectionModelType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/Differentiator/Sources/Differentiator/Utilities.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Utilities.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Utilities.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/Differentiator.build/Objects-normal/arm64/Utilities.o"
+  }
+}

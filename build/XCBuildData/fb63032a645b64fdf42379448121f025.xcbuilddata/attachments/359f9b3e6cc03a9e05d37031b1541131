@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Release-iphoneos/RxCocoa/RxCocoa.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxCocoa.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Release-iphoneos/RxCocoa/RxCocoa.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "RxCocoa-Swift.h",
+      'external-contents': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxCocoa.build/unextended-interface-header.h",
+    }]
+    }]
+}

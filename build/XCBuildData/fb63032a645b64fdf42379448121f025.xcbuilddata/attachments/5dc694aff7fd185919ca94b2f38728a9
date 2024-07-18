@@ -1,0 +1,90 @@
+{
+  "" : {
+    "const-values" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxDataSources-master.swiftconstvalues",
+    "dependencies" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxDataSources-master.d",
+    "diagnostics" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxDataSources-master.dia",
+    "emit-module-dependencies" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxDataSources-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxDataSources-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxDataSources-master.swiftdeps"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/AnimationConfiguration.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/AnimationConfiguration.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/AnimationConfiguration.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/AnimationConfiguration.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/Array+Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/Array+Extensions.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/Array+Extensions.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/Array+Extensions.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/CollectionViewSectionedDataSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/CollectionViewSectionedDataSource.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/CollectionViewSectionedDataSource.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/CollectionViewSectionedDataSource.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/DataSources.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/DataSources.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/DataSources.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/DataSources.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/Deprecated.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/Deprecated.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/Deprecated.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/Deprecated.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/FloatingPointType+IdentifiableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/FloatingPointType+IdentifiableType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/FloatingPointType+IdentifiableType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/FloatingPointType+IdentifiableType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/IntegerType+IdentifiableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/IntegerType+IdentifiableType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/IntegerType+IdentifiableType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/IntegerType+IdentifiableType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/RxCollectionViewSectionedAnimatedDataSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxCollectionViewSectionedAnimatedDataSource.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxCollectionViewSectionedAnimatedDataSource.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxCollectionViewSectionedAnimatedDataSource.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/RxCollectionViewSectionedReloadDataSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxCollectionViewSectionedReloadDataSource.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxCollectionViewSectionedReloadDataSource.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxCollectionViewSectionedReloadDataSource.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/RxPickerViewAdapter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxPickerViewAdapter.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxPickerViewAdapter.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxPickerViewAdapter.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/RxTableViewSectionedAnimatedDataSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxTableViewSectionedAnimatedDataSource.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxTableViewSectionedAnimatedDataSource.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxTableViewSectionedAnimatedDataSource.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/RxTableViewSectionedReloadDataSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxTableViewSectionedReloadDataSource.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxTableViewSectionedReloadDataSource.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/RxTableViewSectionedReloadDataSource.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/String+IdentifiableType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/String+IdentifiableType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/String+IdentifiableType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/String+IdentifiableType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/TableViewSectionedDataSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/TableViewSectionedDataSource.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/TableViewSectionedDataSource.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/TableViewSectionedDataSource.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/UI+SectionedViewType.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/UI+SectionedViewType.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/UI+SectionedViewType.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/UI+SectionedViewType.o"
+  },
+  "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/Pods/RxDataSources/Sources/RxDataSources/ViewTransition.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/ViewTransition.o",
+    "llvm-bc" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/ViewTransition.bc",
+    "object" : "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/Objects-normal/arm64/ViewTransition.o"
+  }
+}

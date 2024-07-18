@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Release-iphoneos/RxDataSources/RxDataSources.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Release-iphoneos/RxDataSources/RxDataSources.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "RxDataSources-Swift.h",
+      'external-contents': "/Users/mikhailbyckov/Desktop/iOS/Первые проекта/HRPlatformSovcomBank-main/build/Pods.build/Release-iphoneos/RxDataSources.build/unextended-interface-header.h",
+    }]
+    }]
+}
